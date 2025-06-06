@@ -1,10 +1,10 @@
 # Health_Insurance_Project
-##Health Insurance Project##
+
 **In this project we will find out which variable (smoking, gender, number of dependants, region) is the most correlated with high health insurance charges. **
 
 We also create dashboards using Power BI which you can see a live version of by clicking on, 
-[Home Page](https://app.powerbi.com/view?r=eyJrIjoiNmEwOTEzNDItOWU3My00N2IyLWFjMzctYTkyMjZkMjQ0MzlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=dd58060b08b5c0aba9ae)
-[Average charges Page](https://app.powerbi.com/view?r=eyJrIjoiNmEwOTEzNDItOWU3My00N2IyLWFjMzctYTkyMjZkMjQ0MzlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+*[Home Page](https://app.powerbi.com/view?r=eyJrIjoiNmEwOTEzNDItOWU3My00N2IyLWFjMzctYTkyMjZkMjQ0MzlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=dd58060b08b5c0aba9ae)*\
+*[Average charges Page](https://app.powerbi.com/view?r=eyJrIjoiNmEwOTEzNDItOWU3My00N2IyLWFjMzctYTkyMjZkMjQ0MzlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
 
 
 Also, we did inferential statistics and reported our findings.
