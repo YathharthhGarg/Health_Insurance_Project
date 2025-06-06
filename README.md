@@ -52,13 +52,13 @@ Average Charges Dashboard:
 9.\
 **Then finally we have done some inferential statistics based on our findings.**
 
-##From Dashboard 1 we find that.\
+**From Dashboard 1 we find that.**
 - [x] Even though we have very less smokers as customers compared to non-smokers. But still the charges being spent on smokers is 80% which is a very significant proportion. One can conclude that smokers incur majority of insurance charges even being a small proportion of the population.
 - [x] When it comes to age, we have mostly adult customers followed by middle age, young adult, and old age respectively.
 - [x] When it comes to BMI score, we have a majority of obese customers followed by overweight, healthy weight, and underweight.
 - [x] BMI score also has a very linear relationship with average insurance charges. The obesity BMI incurs the most charges followed by Overweight, healthy weight, and underweight.
 
-##From Dashboard 2 we find that.\
+**From Dashboard 2 we find that.**
 - [x] We found from correlation that smoking is the most correlated variable with charges which is again being reflected by our charts.
 - [x] When it comes to age, Old age customers incur the greatest charges per customer, followed by middle age, adult, and young adult.
 - [x] Family size paints an interesting picture, where we see an increase in charges as the size of dependants reaches from 0 to 3, and then there is a sudden decrease till 5. Minimum value here is 0 and maximum is 5.
